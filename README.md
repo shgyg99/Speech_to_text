@@ -38,8 +38,8 @@ Follow the steps below to run the app using Docker:
 
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/your_username/your_repository.git
-    cd your_repository
+    git clone https://github.com/shgyg99/Speech_to_text.git
+    cd Speech_to_text
     ```
 
 2. **Build the Docker image**:
