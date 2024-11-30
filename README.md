@@ -1,4 +1,4 @@
-# Speech-to-Text with Transformer Model
+# Speech-to-Text with Transformer Model🎙
 
 This repository contains a Speech-to-Text model trained on the **LJ Speech Dataset**. The model utilizes:
 - **CNN Feature Extractor** for extracting audio features.
@@ -13,7 +13,7 @@ The project includes a web application deployed on **Hugging Face Spaces** and i
 
 Click on the image below to try out the **Speech-to-Text Web App**:
 
-[![Speech-to-Text App](link_to_image)](link_to_hugging_face_space)
+[![Speech-to-Text App](https://github.com/shgyg99/Speech_to_text/blob/master/screenshot20241130172922.png?raw=true)](https://shgyg99-audio-to-text.hf.space)
 
 ---
 
